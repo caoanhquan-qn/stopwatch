@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0F0F01A9-8808-495A-A2BB-7411654F2569}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomStopwatch/Stopwatch.cs">
+    <Files>
+      <File FileName="CustomStopwatch/Program.cs" Line="10" Column="30" />
+      <File FileName="CustomStopwatch/Controller.cs" />
+      <File FileName="CustomStopwatch/Stopwatch.cs" Line="23" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomStopwatch" expanded="True">
+            <Node name="CustomStopwatch" expanded="True">
+              <Node name="Stopwatch.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomStopwatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

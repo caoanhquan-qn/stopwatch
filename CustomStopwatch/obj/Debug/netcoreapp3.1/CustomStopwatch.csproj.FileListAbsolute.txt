@@ -1,0 +1,12 @@
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/bin/Debug/netcoreapp3.1/CustomStopwatch.deps.json
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/bin/Debug/netcoreapp3.1/CustomStopwatch.runtimeconfig.json
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/bin/Debug/netcoreapp3.1/CustomStopwatch.runtimeconfig.dev.json
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/bin/Debug/netcoreapp3.1/CustomStopwatch.dll
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/bin/Debug/netcoreapp3.1/CustomStopwatch.pdb
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.csproj.AssemblyReference.cache
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.AssemblyInfoInputs.cache
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.AssemblyInfo.cs
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.csproj.CoreCompileInputs.cache
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.dll
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.pdb
+/Users/caoanhquan_qn/Projects/CustomStopwatch/CustomStopwatch/obj/Debug/netcoreapp3.1/CustomStopwatch.genruntimeconfig.cache
