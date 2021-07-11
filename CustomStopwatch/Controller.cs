@@ -27,20 +27,20 @@ namespace CustomStopwatch
 
                         case "start":
                             {
-                                if (!Stopwatch.HasStarted)
+                                if (!Stopwatch.GetIsRunning())
                                 {
                                     Stopwatch.Start();
                                 }
                                 else
                                 {
-                                    throw new InvalidOperationException("The stopwatch is counting...");
+                                    throw new InvalidOperationException("The stopwatch is running...");
                                 }
                             }
 
                             break;
                         case "stop":
                             {
-                                if (Stopwatch.HasStarted && !Stopwatch.HasStopped)
+                                if (Stopwatch.GetIsRunning())
                                 {
                                     Stopwatch.Stop();
                                     Console.WriteLine("Time elapsed: " + Stopwatch.GetDuration());
@@ -48,7 +48,7 @@ namespace CustomStopwatch
                                 }
                                 else
                                 {
-                                    throw new InvalidOperationException("The stopwatch isn\'t counting now.");
+                                    throw new InvalidOperationException("The stopwatch isn\'t running now.");
                                 }
 
                             }
